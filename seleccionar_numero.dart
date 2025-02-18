@@ -41,7 +41,7 @@ class _MyAppState extends State<MyApp> {
               SizedBox(height: 20), // Espacio entre el Dropdown y el texto
               Text(
                 'Selected number: $_selectedNumber',
-                style: Theme.of(context).textTheme.headline4,
+                style: Theme.of(context).textTheme.headlineLarge,
               ),
             ],
           ),
